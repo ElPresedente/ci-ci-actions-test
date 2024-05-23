@@ -56,3 +56,4 @@ jobs:
           path: |
             ./builds/ninja-multi-vcpkg/
             !./builds/vcpkg_installed/
+            !./builds/ninja-multi-vcpkg/vcpkg_installed/

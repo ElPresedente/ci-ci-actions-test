@@ -1,5 +1,6 @@
 {
   "dependencies" : [ {
-    "name" : "drogon"
+    "name" : "drogon",
+    "features" : [ "ctl" ]
   } ]
 }
